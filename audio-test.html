@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Audio test</title>
+  </head>
+  <body>
+    <h1>Audio test (dev only)</h1>
+    <p>
+      <select id="instrument"></select>
+      <button data-play="scale">Chromatic scale</button>
+      <button data-play="chord">C major chord</button>
+      <button data-play="cadence">Cadence in C</button>
+      <button data-play="labels">Interval feedback (labels)</button>
+    </p>
+    <p id="label"></p>
+    <pre id="report"></pre>
+    <script type="module" src="/dev/audio-test.ts"></script>
+  </body>
+</html>

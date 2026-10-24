@@ -1,0 +1,70 @@
+{
+  "id": "harp",
+  "name": "Harp",
+  "samples": [
+    {
+      "midi": 35,
+      "file": "35.mp3"
+    },
+    {
+      "midi": 38,
+      "file": "38.mp3"
+    },
+    {
+      "midi": 41,
+      "file": "41.mp3"
+    },
+    {
+      "midi": 45,
+      "file": "45.mp3"
+    },
+    {
+      "midi": 48,
+      "file": "48.mp3"
+    },
+    {
+      "midi": 52,
+      "file": "52.mp3"
+    },
+    {
+      "midi": 55,
+      "file": "55.mp3"
+    },
+    {
+      "midi": 59,
+      "file": "59.mp3"
+    },
+    {
+      "midi": 62,
+      "file": "62.mp3"
+    },
+    {
+      "midi": 65,
+      "file": "65.mp3"
+    },
+    {
+      "midi": 69,
+      "file": "69.mp3"
+    },
+    {
+      "midi": 72,
+      "file": "72.mp3"
+    },
+    {
+      "midi": 76,
+      "file": "76.mp3"
+    },
+    {
+      "midi": 79,
+      "file": "79.mp3"
+    },
+    {
+      "midi": 83,
+      "file": "83.mp3"
+    },
+    {
+      "midi": 86,
+      "file": "86.mp3"
+    }
+  ]
+}

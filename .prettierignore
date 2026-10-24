@@ -1,0 +1,6 @@
+dist
+dev-dist
+openspec
+public/samples
+# examples are deliberately one JSON object per line
+docs/practice-log.md

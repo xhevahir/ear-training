@@ -1,0 +1,54 @@
+{
+  "id": "cello",
+  "name": "Cello",
+  "samples": [
+    {
+      "midi": 36,
+      "file": "36.mp3"
+    },
+    {
+      "midi": 39,
+      "file": "39.mp3"
+    },
+    {
+      "midi": 45,
+      "file": "45.mp3"
+    },
+    {
+      "midi": 48,
+      "file": "48.mp3"
+    },
+    {
+      "midi": 51,
+      "file": "51.mp3"
+    },
+    {
+      "midi": 54,
+      "file": "54.mp3"
+    },
+    {
+      "midi": 57,
+      "file": "57.mp3"
+    },
+    {
+      "midi": 60,
+      "file": "60.mp3"
+    },
+    {
+      "midi": 63,
+      "file": "63.mp3"
+    },
+    {
+      "midi": 66,
+      "file": "66.mp3"
+    },
+    {
+      "midi": 69,
+      "file": "69.mp3"
+    },
+    {
+      "midi": 72,
+      "file": "72.mp3"
+    }
+  ]
+}

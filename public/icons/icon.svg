@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#2f5d8a"/>
+  <!-- two beamed notes: an interval -->
+  <g fill="#ffffff">
+    <rect x="196" y="150" width="20" height="190"/>
+    <rect x="330" y="120" width="20" height="190"/>
+    <polygon points="196,150 350,120 350,160 196,190"/>
+    <ellipse cx="170" cy="345" rx="48" ry="36" transform="rotate(-20 170 345)"/>
+    <ellipse cx="304" cy="315" rx="48" ry="36" transform="rotate(-20 304 315)"/>
+  </g>
+</svg>

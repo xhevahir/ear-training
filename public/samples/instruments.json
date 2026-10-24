@@ -1,0 +1,30 @@
+[
+  {
+    "id": "piano",
+    "name": "Piano"
+  },
+  {
+    "id": "organ",
+    "name": "Organ"
+  },
+  {
+    "id": "harmonium",
+    "name": "Harmonium"
+  },
+  {
+    "id": "guitar-acoustic",
+    "name": "Acoustic guitar"
+  },
+  {
+    "id": "guitar-electric",
+    "name": "Electric guitar"
+  },
+  {
+    "id": "harp",
+    "name": "Harp"
+  },
+  {
+    "id": "cello",
+    "name": "Cello"
+  }
+]
